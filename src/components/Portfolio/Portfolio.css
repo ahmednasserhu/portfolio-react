@@ -1,0 +1,9 @@
+.Portfolio-Section{
+  background-color: #211B27;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.row-style{
+  margin: 10px 0px;
+}
